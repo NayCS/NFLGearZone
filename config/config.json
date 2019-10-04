@@ -1,21 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "Ah6769",
+    "username": "lcz6wh2kj74u5cqn",
+    "password": "wq5sx3sng6s4f624",
     "database": "gearzonedb",
-    "host": "localhost",
+    "host": "m7wltxurw8d2n21q.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "testdb",
-    "host": "localhost",
-    "dialect": "mysql",
-    "logging": false
+    "username": "lcz6wh2kj74u5cqn",
+    "password": "wq5sx3sng6s4f624",
+    "database": "gearzonedb",
+    "host": "m7wltxurw8d2n21q.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
   },
   "production": {
-    "use_env_variable": "JAWSDB_URL",
+    "username": "lcz6wh2kj74u5cqn",
+    "password": "wq5sx3sng6s4f624",
+    "database": "gearzonedb",
+    "host": "m7wltxurw8d2n21q.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
