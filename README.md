@@ -1,7 +1,7 @@
 # NFLGearZone
 
 ## Description: 
-NFLGearZone is a monthly subscribtion server for a hat from your favotite NFL team
+NFLGearZone is a monthly subscription server for a hat from your favotite NFL team
 
 ## Views
 
@@ -60,7 +60,7 @@ Run npm install in the terminal/command line:
 
 
 ## Authors
-*Eliza Irwin*
-*Lav Patel*
-*Nayely Perea*
-
+*Eliza Irwin*,
+*Lav Patel*,
+*Nayely Perea*,
+*Rugiyya Mammadov*
